@@ -1,0 +1,14 @@
+{
+  "name": "vector-space-model",
+  "version": "1.0.0",
+  "description": "an implementation of the tf-idf vector space model",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
